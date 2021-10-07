@@ -1,0 +1,7 @@
+D:\KOLEDJ\KURS4\Program\pr2\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+D:\KOLEDJ\KURS4\Program\pr2\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+D:\KOLEDJ\KURS4\Program\pr2\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+D:\KOLEDJ\KURS4\Program\pr2\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.AssemblyReference.cache
+D:\KOLEDJ\KURS4\Program\pr2\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+D:\KOLEDJ\KURS4\Program\pr2\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+D:\KOLEDJ\KURS4\Program\pr2\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
